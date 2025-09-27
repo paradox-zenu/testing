@@ -2,8 +2,8 @@ from aiogram import Bot, Dispatcher, types
 import aiohttp
 import os
 
-API_TOKEN = 'your-telegram-bot-token'
-YOUTUBE_API_KEY = 'your-youtube-api-key'
+API_TOKEN = '8047939325:AAFANFZJjF4ncrGvGsHB7kJyrkr38X7-8m8'
+YOUTUBE_API_KEY = 'NxGBNexGenBots213770"'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
